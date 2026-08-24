@@ -1,7 +1,6 @@
-# CT046-3-M-AML — Applied Machine Learning Assignment
+
 ## Source Code: Air Quality Prediction and Analysis on Beijing Multi-Site Sensor Data
 
-**Student:** [YOUR NAME] · **Student ID:** [YOUR ID]
 
 ---
 
